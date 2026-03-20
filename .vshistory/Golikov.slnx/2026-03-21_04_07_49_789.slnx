@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Calculator/Calculator/Calculator.csproj" />
+  <Project Path="Golikov/Golikov.csproj" />
+</Solution>
